@@ -8,4 +8,4 @@ let estaVivo: boolean = false;
 
 hp = 'FULL';
 
-console.log(nombre, hp, estaVivo); 
+console.log(nombre, hp, estaVivo);
